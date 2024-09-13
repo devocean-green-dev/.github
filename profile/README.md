@@ -15,7 +15,7 @@
 
 __푸른 환경__ 을 뜻하는 __Green__ 과 __개발자__ 를 뜻하는 __Developer__ 의 합성어입니다.
 
-## 프로젝트 기능 소개
+## 🌱 프로젝트 기능 소개
 <div style="width: 100%; display: flex; flex-direction: column; justify-content: center;">
     <h4>홈 화면</h4>
     <img src="image/feature_1.png" width="75%"></img>
@@ -29,11 +29,22 @@ __푸른 환경__ 을 뜻하는 __Green__ 과 __개발자__ 를 뜻하는 __Deve
     <img src="image/feature_5.png" width="75%"></img>
 <div>
 
-### 프로젝트 흐름
+## 🌱 프로젝트 흐름
 <div style="width: 100%; display: flex; flex-direction: column; justify-content: center;">
     <img src="image/flow.png" width="75%"></img><br/>
 <div>
 
-### 관련 URL
-[DEVOCEAN 블로그 프로젝트 소개](https://devocean.sk.com/community/detail.do?ID=165456) <br/>
-[DEVOCEAN Tech Day 프로젝트 발표](https://youtu.be/pJ8RYOsAuDk)
+## 🏆 수상
+DEVOCEAN YOUNG 2기 팀 프로젝트 - "혹시 프로세요"상 
+<div style="width: 100%; display: flex; flex-direction: column; justify-content: center;">
+    <img src="image/award.png" width="75%"></img><br/>
+<div>
+
+## 💻 데모진행
+<div style="width: 100%; display: flex; flex-direction: column; justify-content: center;">
+    <img src="image/demoday.png" width="75%"></img><br/>
+<div>
+
+## 🔎 관련 URL
+📄 [DEVOCEAN 블로그 프로젝트 소개](https://devocean.sk.com/community/detail.do?ID=165456) <br/>
+🎤 [DEVOCEAN Tech Day 프로젝트 발표](https://youtu.be/pJ8RYOsAuDk)
