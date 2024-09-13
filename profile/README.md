@@ -1,4 +1,11 @@
 ## DEVOCEAN YOUNG 2기 7조 [자료구조] GreenDev 프로젝트
+
+| [유용민](https://github.com/yymin1022) | [강승구](https://github.com/kang9366) | [권지윤](https://github.com/june0216) | [장현정](https://github.com/JangGusWjd) |
+| --- | --- | --- | --- |
+| <img src="image/profile_yymin1022.png" width="150" /> | <img src="image/profile_kang9366.png" width="150" /> | <img src="image/profile_june0216.png" width="150" /> | <img src="image/profile_JangGusWjd.png" width="150" /> |
+| PM / Infra | Android | Back-End | Front-End |
+| 중앙대학교 | 서울과학기술대학교 | 이화여자대학교 | 단국대학교 |
+
 ## 🌱 GreenDev?
 🌱 환경 캠페인 참여 유도 웹/앱 서비스
 
